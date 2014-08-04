@@ -63,7 +63,7 @@ Game-Programming-Patterns-CN
 ==========================	
 ##	译者
 
-欢迎朋友们阅读并斧正，提交 Issule 或者 send pull request :]
+欢迎朋友们阅读并斧正，提交 Issue 或者 send pull request :]
 
 能有所收获，便是我翻译中文的意义所在。
 	
